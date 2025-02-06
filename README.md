@@ -42,8 +42,7 @@ To run the app, you will need Android Studio with the following:
 ### Steps to Run
 
 1. Clone the repository:
-git clone https://github.com/yourusername/lemonade-app.git
-
+git clone https://github.com/tugbaguneyy/Lemonade-App.git
 2. Open the project in Android Studio.
 
 3. Run the project on an emulator or physical device.
